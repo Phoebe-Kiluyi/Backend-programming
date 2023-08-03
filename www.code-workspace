@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../www"
+		},
+		{
+			"path": "../../../../../../js basics"
+		},
+		{
+			"path": "../../../../../../project1"
+		},
+		{
+			"path": "../../../../chulo"
+		},
+		{
+			"path": "../../../../Personal Portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project1"
+	}
+}
